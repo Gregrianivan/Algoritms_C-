@@ -1,0 +1,5 @@
+﻿  Algoritms_C_Lesson4_3.cpp
+C:\Users\Vitalyi\Desktop\учеба\Algoritms\Algoritms_C\Algoritms_C_Lesson4_3\Algoritms_C_Lesson4_3.cpp(49,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Vitalyi\Desktop\учеба\Algoritms\Algoritms_C\Algoritms_C_Lesson4_3\Algoritms_C_Lesson4_3.cpp(52,16): warning C4101: ncols: неиспользованная локальная переменная
+C:\Users\Vitalyi\Desktop\учеба\Algoritms\Algoritms_C\Algoritms_C_Lesson4_3\Algoritms_C_Lesson4_3.cpp(52,9): warning C4101: nrows: неиспользованная локальная переменная
+  Algoritms_C_Lesson4_3.vcxproj -> C:\Users\Vitalyi\Desktop\учеба\Algoritms\Algoritms_C\Debug\Algoritms_C_Lesson4_3.exe
